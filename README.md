@@ -1,4 +1,4 @@
 # EstudoJS
-Estudo de javascript <p>
-<p> Estudo promise </p>
+Study javascript
+<p> Study of events </p>
 
